@@ -1,13 +1,13 @@
 # :credit_card: Paystack Plugin for Flutter
 
-[![build status](https://img.shields.io/github/workflow/status/actcmsvn/flutter_paystack/Build%20and%20Test)](https://github.com/actcmsvn/flutter_paystack/actions?query=Build+and+test)
-[![Coverage Status](https://coveralls.io/repos/github/actcmsvn/flutter_paystack/badge.svg?branch=master)](https://coveralls.io/github/actcmsvn/flutter_paystack?branch=master)
+[![build status](https://img.shields.io/github/workflow/status/wilburt/flutter_paystack/Build%20and%20Test)](https://github.com/wilburt/flutter_paystack/actions?query=Build+and+test)
+[![Coverage Status](https://coveralls.io/repos/github/wilburt/flutter_paystack/badge.svg?branch=master)](https://coveralls.io/github/wilburt/flutter_paystack?branch=master)
 [![pub package](https://img.shields.io/pub/v/flutter_paystack.svg)](https://pub.dartlang.org/packages/flutter_paystack)
 
 
 <p>
-    <img src="https://raw.githubusercontent.com/actcmsvn/flutter_paystack/master/screenshots/card_payment.png" width="200px" height="auto" hspace="20"/>
-    <img src="https://raw.githubusercontent.com/actcmsvn/flutter_paystack/master/screenshots/bank_payment.png" width="200px" height="auto" hspace="20"/>
+    <img src="https://raw.githubusercontent.com/wilburt/flutter_paystack/master/screenshots/card_payment.png" width="200px" height="auto" hspace="20"/>
+    <img src="https://raw.githubusercontent.com/wilburt/flutter_paystack/master/screenshots/bank_payment.png" width="200px" height="auto" hspace="20"/>
 </p>
 
 
@@ -176,3 +176,4 @@ Experienced an issue or want to report a bug? Please, [report it here](https://g
 
 ## :trophy: Credits
 Thanks to the authors of Paystack [iOS](https://github.com/PaystackHQ/paystack-ios) and [Android](https://github.com/PaystackHQ/paystack-android) SDKS. I leveraged on their work to bring this plugin to fruition.
+
